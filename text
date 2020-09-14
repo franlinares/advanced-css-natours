@@ -1,0 +1,6 @@
+Para activar el compilador:
+$ npm run compile: sass
+
+Para actuivar el live server: 
+
+live-server
